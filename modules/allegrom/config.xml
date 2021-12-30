@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>allegrom</name>
+	<displayName><![CDATA[AllegroMigrate]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Migracja zam&oacute;wień z Allegro]]></description>
+	<author><![CDATA[Piotr Maślanka]]></author>
+	<tab><![CDATA[other]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
